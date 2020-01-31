@@ -108,19 +108,19 @@ La carte rpi3 est branchée en éthernet au réseau, et à une led via le port G
 Le schéma de la carte rpi3 est le suivant:
 
 <p align="center">
-  <img src="https://github.com/LinEmbarque/Projet_Linux_Embarque.git/image/schema_rpi3.png" width="300" title="Github Logo">
+  <img src="https://github.com/LinEmbarque/Projet_Linux_Embarque/image/schema_rpi3.png" width="300" title="Github Logo">
 </p>
 
 Le schéma du montage led est le suivant:
 
 <p align="center">
-  <img src="https://github.com/LinEmbarque/Projet_Linux_Embarque.git/image/schema_led.png" width="300" title="Github Logo">
+  <img src="https://github.com/LinEmbarque/Projet_Linux_Embarque/image/schema_led.png" width="300" title="Github Logo">
 </p>
 
 Voici une photo du montage final:
 
 <p align="center">
-  <img src="https://github.com/LinEmbarque/Projet_Linux_Embarque.git/image/schema_montage.jpg" width="300" title="Github Logo">
+  <img src="https://github.com/LinEmbarque/Projet_Linux_Embarque/image/schema_montage.jpg" width="300" title="Github Logo">
 </p>
 
 ## Utilisation
